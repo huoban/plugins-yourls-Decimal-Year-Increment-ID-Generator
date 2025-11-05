@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Decimal Year Increment ID Generator
- * Plugin URI: https://github.com/YOURLS/YOURLS
+ * Plugin URI: https://github.com/huoban/plugins-yourls-Decimal-Year-Increment-ID-Generator
  * Description: 生成基于年份后两位和十进制递增的自定义短链接ID
  * Version: 1.0
  * Author: 69伙伴
